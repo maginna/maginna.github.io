@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "MkDocs\n\n\nFollowing the posts of jcw at \nJeelabs\n, I decided to implement a static website. From the many choices I liked the default theme of \nMkDocs\n best, after narrowing my choice based on Python and MarkDown. \n\n\n29 December 2015",
+            "title": "Home"
+        },
+        {
+            "location": "/#mkdocs",
+            "text": "Following the posts of jcw at  Jeelabs , I decided to implement a static website. From the many choices I liked the default theme of  MkDocs  best, after narrowing my choice based on Python and MarkDown.   29 December 2015",
+            "title": "MkDocs"
+        },
+        {
+            "location": "/about/",
+            "text": "Things that interest, inspire, divert and entertain.\n\n\nJeeLabs\n\n\nYouTube, making a triode valve\n\n\nBelow my \nRepRapPro Huxley\n, Aug 2013 vintage, with Melzi 2.0 electronics\n \n\n\n\nBelow my \nCyclone\n 2.0+ (short z (54mm), custom bed, with belt drive x \n y), \nProtoneer GRBL shield\n v3.03 running \nGRBL0.9j",
+            "title": "About"
+        }
+    ]
+}
