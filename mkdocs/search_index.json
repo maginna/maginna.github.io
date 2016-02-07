@@ -2,8 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "MkDocs\n\n\nFollowing the posts of jcw at \nJeelabs\n, I decided to implement a static website. From the many choices I liked the default theme of \nMkDocs\n best, after narrowing my choice based on Python and MarkDown. \n\n\n29 December 2015",
+            "text": "CNC Toolchain\n\n\nI have been practicing a Scrivener \nMultiMarkdown\n workflow. One project is a CNC Toolchain Document (LaTex), covering a \nPCBModE\n/Inkscape, \nFlatCAM\n and \nbCNC\n toolchain for my Cyclone PCB Factory CNC machine. Initially rather than Printed Circuit Boards I am seeking to make simple cutouts of objects in 3mm MDF or plywood. I have focused on two parts, a Huxley Extruder holder, and Y carriage frog. These are not complicated objects, but I hope they will serve to get some experience with the \nCyclone\n machine geometry, particularly the z axis, plus milling bit selection and tool path feedrates. There has not been much time to \nmake\n.\n\nI have just about kept up with Jeelabs, getting the \nJET/Hub\n up and running on an old Raspberry Pi B.\n\n\n7 February 2016\n\n\nMkDocs\n\n\nFollowing the posts of jcw at \nJeelabs\n, I decided to implement a static website. From the many choices I liked the default theme of \nMkDocs\n best, after narrowing my choice based on Python and MarkDown. \n\n\n29 December 2015",
             "title": "Home"
+        },
+        {
+            "location": "/#cnc-toolchain",
+            "text": "I have been practicing a Scrivener  MultiMarkdown  workflow. One project is a CNC Toolchain Document (LaTex), covering a  PCBModE /Inkscape,  FlatCAM  and  bCNC  toolchain for my Cyclone PCB Factory CNC machine. Initially rather than Printed Circuit Boards I am seeking to make simple cutouts of objects in 3mm MDF or plywood. I have focused on two parts, a Huxley Extruder holder, and Y carriage frog. These are not complicated objects, but I hope they will serve to get some experience with the  Cyclone  machine geometry, particularly the z axis, plus milling bit selection and tool path feedrates. There has not been much time to  make . \nI have just about kept up with Jeelabs, getting the  JET/Hub  up and running on an old Raspberry Pi B.  7 February 2016",
+            "title": "CNC Toolchain"
         },
         {
             "location": "/#mkdocs",
@@ -12,7 +17,7 @@
         },
         {
             "location": "/about/",
-            "text": "Things that interest, inspire, divert and entertain.\n\n\nJeeLabs\n\n\nYouTube, making a triode valve\n\n\nBelow my \nRepRapPro Huxley\n, Aug 2013 vintage, with Melzi 2.0 electronics\n \n\n\n\nBelow my \nCyclone\n 2.0+ (short z (54mm), custom bed, with belt drive x \n y), \nProtoneer GRBL shield\n v3.03 running \nGRBL0.9j",
+            "text": "Things that interest, inspire, divert and entertain.\n\n\nJeeLabs\n\n\nYouTube, making a triode valve\n\n\nOpenSCAD\n which is fantastic.  \n\n\nBelow my \nRepRapPro Huxley\n, Aug 2013 vintage, with Melzi 2.0 electronics. In this image printing a Cyclone pulley wheel cover.\n \n\n\n\nBelow my \nCyclone\n 2.0+ (short z (54mm), custom bed, with belt drive x \n y), \nProtoneer GRBL shield\n v3.03 running \nGRBL0.9j",
             "title": "About"
         }
     ]
